@@ -1,0 +1,8 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="120" rx="28" fill="#0A0D12"/>
+  <rect x="3" y="3" width="414" height="114" rx="25" stroke="#B8C1CC" stroke-opacity="0.45" stroke-width="2"/>
+  <path d="M40 82L60 36L80 82" stroke="#E7EDF4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48 64H72" stroke="#8DA0B5" stroke-width="3" stroke-linecap="round"/>
+  <text x="108" y="50" fill="#EEF3F8" font-family="Libre Baskerville, serif" font-size="29" font-weight="700" letter-spacing="1.4">NOBILE</text>
+  <text x="108" y="80" fill="#8DA0B5" font-family="Manrope, sans-serif" font-size="15" font-weight="700" letter-spacing="5">CONSTRUCTORA</text>
+</svg>
