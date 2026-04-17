@@ -13301,3 +13301,25 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, .contact-title, .hero-title {
   #mainNav .nav-logo { height: 40px; }
   .hero-title, .masthead h1 { font-size: clamp(2.15rem, 8vw, 3.15rem) !important; }
 }
+
+/* CONSTRUCTION MODAL / CATALOG DISTINCT */
+.catalogo .item {
+  border-radius: 10px !important;
+  padding: 0.8rem 0.8rem 1.1rem !important;
+}
+
+.catalogo .item img {
+  border-radius: 8px !important;
+  aspect-ratio: 16 / 11 !important;
+}
+
+.modal-content {
+  width: min(94%, 860px) !important;
+  border-radius: 12px !important;
+}
+
+.modal-content img {
+  width: min(100%, 560px) !important;
+  aspect-ratio: 16 / 10 !important;
+  border-radius: 10px !important;
+}
